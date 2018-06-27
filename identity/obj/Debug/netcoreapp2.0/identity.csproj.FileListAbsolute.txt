@@ -1,0 +1,12 @@
+C:\users\Guilherme Nunes\source\repos\identity\bin\Debug\netcoreapp2.0\identity.deps.json
+C:\users\Guilherme Nunes\source\repos\identity\bin\Debug\netcoreapp2.0\identity.runtimeconfig.json
+C:\users\Guilherme Nunes\source\repos\identity\bin\Debug\netcoreapp2.0\identity.runtimeconfig.dev.json
+C:\users\Guilherme Nunes\source\repos\identity\bin\Debug\netcoreapp2.0\identity.dll
+C:\users\Guilherme Nunes\source\repos\identity\bin\Debug\netcoreapp2.0\identity.pdb
+C:\users\Guilherme Nunes\source\repos\identity\obj\Debug\netcoreapp2.0\identity.csprojResolveAssemblyReference.cache
+C:\users\Guilherme Nunes\source\repos\identity\obj\Debug\netcoreapp2.0\identity.csproj.CoreCompileInputs.cache
+C:\users\Guilherme Nunes\source\repos\identity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\users\Guilherme Nunes\source\repos\identity\obj\Debug\netcoreapp2.0\identity.AssemblyInfoInputs.cache
+C:\users\Guilherme Nunes\source\repos\identity\obj\Debug\netcoreapp2.0\identity.AssemblyInfo.cs
+C:\users\Guilherme Nunes\source\repos\identity\obj\Debug\netcoreapp2.0\identity.dll
+C:\users\Guilherme Nunes\source\repos\identity\obj\Debug\netcoreapp2.0\identity.pdb
